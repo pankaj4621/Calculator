@@ -1,0 +1,21 @@
+body{
+	background-color: pink;
+}
+.image1
+{
+	border: 5px black solid;
+}
+
+.test
+{
+	height: 50px;
+	width: 100px;
+
+}
+button
+{
+	background-color: #4CAF50;
+	border: 5px;
+	border-radius: 30px;
+	font-size: 40px;
+}
